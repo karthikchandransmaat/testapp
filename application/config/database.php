@@ -48,11 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'soiree-smaatapp.cvjwbf8cmrzh.us-west-2.rds.amazonaws.com';
-$db['default']['username'] = 'soiree';
-$db['default']['password'] = 'kQ#$U3GYUhmw=J&o6Rzv3uh4puWkZi[Nca3rPqBg9';
-$db['default']['database'] = 'soiree_smaatapp';
-$db['default']['port'] = 3306;
+$db['default']['hostname'] = 'localhost';
+$db['default']['username'] = '';
+$db['default']['password'] = '';
+$db['default']['database'] = '';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
