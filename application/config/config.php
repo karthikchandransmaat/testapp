@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'https://justfit.herokuapp.com/';
+$config['base_url']	= 'https://testawsout.herokuapp.com/';
 
 /*
 |--------------------------------------------------------------------------
@@ -224,7 +224,7 @@ $config['cache_path'] = '';
 | MUST set an encryption key.  See the user guide for info.
 |
 */
-$config['encryption_key'] = 'kumar';
+$config['encryption_key'] = '';
 
 /*
 |--------------------------------------------------------------------------
